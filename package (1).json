@@ -1,0 +1,15 @@
+{
+  "name": "uy-bot",
+  "version": "1.0.0",
+  "description": "Telegram guruh uchun 'do'st taklif qil' boti + arenda/sotuv uylar mini-app",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.7.0"
+  }
+}
